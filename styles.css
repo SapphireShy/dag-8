@@ -1,0 +1,27 @@
+
+:root{
+    --primiaryColor: #122C34;
+    --secondaryColor:#6D579C;
+    --lightColor: #AB81CD;
+
+
+    --spacingSmall: 5px;
+    --spacingMedium: 10px;
+    --spacingLarge: 15px;
+}
+
+body{
+   background-color:var(--primiaryColor);
+}
+
+h1{
+    color: var(--lightColor);
+
+    
+    
+
+}
+
+p{
+    color: var(--lightColor);
+}
